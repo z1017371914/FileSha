@@ -4,7 +4,7 @@ date: 2017-04-15 12:37:36
 tags: Golang
 ---
 
-###[gosimple](http://jenkins.yxapp.xyz/job/staticcheck0410/218/checkstyleResult/) [github.com](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple)
+### [gosimple](http://jenkins.yxapp.xyz/job/staticcheck0410/218/checkstyleResult/) [github.com](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple)
 
 
 | count | Description                               | Suggestion                             |
@@ -29,7 +29,7 @@ tags: Golang
 
 
 
-###[staticcheck](http://jenkins.yxapp.xyz/job/staticcheck0410/219/checkstyleResult/)  [github.com](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck)
+### [staticcheck](http://jenkins.yxapp.xyz/job/staticcheck0410/219/checkstyleResult/)  [github.com](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck)
 
 | count | Description                               | Suggestion                             |
 |-------|-------------------------------------------|----------------------------------------|
@@ -39,7 +39,7 @@ tags: Golang
 |1|[Using regexp.Match or related in a loop, should use regexp.Compile](http://jenkins.yxapp.xyz/job/staticcheck0410/219/checkstyleResult/source.-5323513831526335764/#499)||
 
 
-###[unused](http://jenkins.yxapp.xyz/job/staticcheck0410/220/checkstyleResult/) [github.com](https://github.com/dominikh/go-tools/tree/master/cmd/unused)
+### [unused](http://jenkins.yxapp.xyz/job/staticcheck0410/220/checkstyleResult/) [github.com](https://github.com/dominikh/go-tools/tree/master/cmd/unused)
 
 | count | Description                               | Suggestion                             |
 |-------|-------------------------------------------|----------------------------------------|
@@ -48,7 +48,7 @@ tags: Golang
 |177|  [field XXX is unused](http://jenkins.yxapp.xyz/job/staticcheck0410/220/checkstyleResult/source.-5323513831526335698/#814)||
 
 
-###[golint](http://jenkins.yxapp.xyz/job/staticcheck0410/222/checkstyleResult/) [github.com](https://github.com/golang/lint)
+### [golint](http://jenkins.yxapp.xyz/job/staticcheck0410/222/checkstyleResult/) [github.com](https://github.com/golang/lint)
 
 | count | Description                               | Suggestion                             |
 |-------|-------------------------------------------|----------------------------------------|
@@ -61,7 +61,7 @@ tags: Golang
 
 
 
-###[go tool vet](http://jenkins.yxapp.xyz/job/staticcheck0410/226/checkstyleResult/) 全是high priority[链接](https://golang.org/cmd/vet/)  
+### [go tool vet](http://jenkins.yxapp.xyz/job/staticcheck0410/226/checkstyleResult/) 全是high priority[链接](https://golang.org/cmd/vet/)  
 
 | count | Description                               | Suggestion                             |
 |-------|-------------------------------------------|----------------------------------------|
