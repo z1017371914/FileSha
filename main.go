@@ -67,7 +67,6 @@ func main() {
 	_ = flag.String("filters", "", "the files or directotys that will be ignored")
 	resultDir := flag.String("resultDir","./","the directory where will  store the result file")
 	resultFileName := flag.String("resultFileName","result.txt","the result file name")
-	flag.Args()
 
 	flag.Parse()
 
